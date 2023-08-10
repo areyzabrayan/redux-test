@@ -1,0 +1,7 @@
+export const todoListType = {
+    CREATE_TODO: "CREATE_TODO",
+    UPDATE_TODO: "UPDATE_TODO",
+    DELETE_TODO: "DELETE_TODO",
+    FILTER_TODO: "FILTER_TODO",
+    TOOGLE_TODO: "TOOGLE_TODO"
+}
